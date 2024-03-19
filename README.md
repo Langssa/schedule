@@ -62,6 +62,9 @@ Travel with 는 한 번의 조회로 다양한 여행지와 공연 정보를 제
 <br/>Database는 MySQL을 사용하였고 Model과 Database의 Mapping을 위해 mybatis를 사용하였습니다.
 ## ❤**서비스 기능 소개**
 
+ [해외여행일정관리 시연영상](https://m.youtube.com/watch?v=wVZc5Vni_U8&list=PLedGoSru7949HpjolTIj01PMIzOOTG6Yq&index=7&pp=iAQB)
+ 
+
 #### 로그인
 ![login](readme/login.gif)
 ---
